@@ -59,6 +59,7 @@ ul {
     display: flex;
     justify-content: center;
 }
+
 .btn:active {
     background-color: #f498b8 !important;
     border-color: #ea2c2c !important;
@@ -74,18 +75,25 @@ ul {
 }
 
 
+.form-control {
+    border-color: #ee729e !important;
+
+}
 
 .form-control::placeholder {
     color: #f498b8;
+
 }
 
 .form-control:focus {
     border-color: #ee729e;
     box-shadow: none;
+
 }
 
-textarea::placeholder {
-    color: #ea2c2c;
+
+input {
+    color: #ee729e !important;
 }
 
 
