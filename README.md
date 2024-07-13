@@ -20,7 +20,8 @@ Welcome to the Museum of Candy website project! This repository contains the sou
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/museum-of-candy.git
+    git clone https://chionatip0306.github.io/Candy-Museum-Project/
+    
     ```
 
 2. **Navigate to the Project Directory**:
