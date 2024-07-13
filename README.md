@@ -26,7 +26,7 @@ Welcome to the Museum of Candy website project! This repository contains the sou
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd museum-of-candy
+    cd candy-museum-project
     ```
 
 3. **Open `index.html` in Your Browser**.
