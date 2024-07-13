@@ -60,9 +60,9 @@ ul {
     justify-content: center;
 }
 .btn:active {
-    background-color: #f498b8;
-    border-color: #ea2c2c;
-    color: white;
+    background-color: #f498b8 !important;
+    border-color: #ea2c2c !important;
+    color: white !important;
 
 }
 
