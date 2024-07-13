@@ -9,14 +9,11 @@ html,body {
 padding: 0;
     margin: 0;
 }
-.container-fluid {
-    max-width: 100%;
-    overflow-x: hidden;
-}
-    
+
 
 * {
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 .blurb h2 {
     color: #ea2c2c;
