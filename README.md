@@ -31,8 +31,4 @@ Welcome to the Museum of Candy website project! This repository contains the sou
 
 3. **Open `index.html` in Your Browser**.
 
-## Usage
-
-Open the `index.html` file in your web browser to view the site.
-
 
