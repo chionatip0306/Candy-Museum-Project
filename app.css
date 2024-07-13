@@ -3,6 +3,7 @@ body {
     font-family: Nunito, sans-serif;
     height: 100%;
     overflow-x: hidden;
+    padding: 0;
 }
 
 .blurb h2 {
