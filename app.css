@@ -54,6 +54,9 @@ ul {
     line-height: 1;
     overflow-y: hidden;
 }
+.mb-4 {
+    overflow-y: hidden;
+}
 
 .btn {
     background-color: #ea2c2c;
