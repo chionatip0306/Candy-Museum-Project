@@ -52,6 +52,7 @@ ul {
     font-weight: 300;
     font-size: 1.125rem;
     line-height: 1;
+    overflow-y:hidden;
 }
 
 .btn {
